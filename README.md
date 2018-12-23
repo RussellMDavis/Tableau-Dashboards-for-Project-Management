@@ -8,11 +8,11 @@ Internal dashboard
 =
 The internal dashboard provides information about overall status and individual contributions for ongoing projects.
 
-![Jira Commit Visualization](Screenshots\JiraDataVis.PNG)
+![Jira Commit Visualization](Screenshots/JiraDataVis.PNG)
 
 External dashboard
 =
 The external dashboard provides some context for job availability and salary in the U.S. based on job title and salary, as  
 Indeed's website seems to be broadly lacking in visualizations.
 
-![Website Job Data Visualization](Screenshots\WebVis.PNG)
+![Website Job Data Visualization](Screenshots/WebVis.PNG)
